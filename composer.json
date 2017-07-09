@@ -1,0 +1,14 @@
+{
+    "name": "long/laravelapi",
+    "description": "long demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "long",
+            "email": "646448149@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
